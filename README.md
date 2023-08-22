@@ -1,2 +1,2 @@
 # LD_Projects
-Projects made using the C/C++ language.
+Projects made using the LADDER language.
